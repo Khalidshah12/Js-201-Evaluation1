@@ -6,6 +6,7 @@
     margin: auto;
 }
 
+/* show prodcts button */
 #show_products {
     height: 40px;
     width: 20%;
@@ -34,11 +35,11 @@
     border-radius: 10px;
 }
 
-#container>h2{
+#container>h2 {
     text-align: center;
 }
 
-input{
+input {
     display: block;
     margin: auto;
     width: 75%;
@@ -47,7 +48,8 @@ input{
     margin-top: 20px;
 }
 
-#add_product{
+/* add products button */
+#add_product {
     display: block;
     margin: auto;
     margin-top: 20px;

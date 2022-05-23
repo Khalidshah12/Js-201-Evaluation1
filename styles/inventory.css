@@ -6,6 +6,7 @@
     margin: auto;
 }
 
+/* Add more Products button */
 #add_more_product {
     height: 40px;
     width: 20%;
@@ -24,7 +25,7 @@
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
 
-
+/* Products display */
 #all_products {
     width: 80%;
     margin: auto;
@@ -36,6 +37,7 @@
 
 }
 
+/* boxes */
 .box {
     height: 500px;
     width: 100%;
@@ -50,20 +52,23 @@
     border-top-right-radius: 10px;
 }
 
-h4,p,button{
+h4,
+p,
+button {
     margin-left: 15px;
 }
 
-#remove_product{
+/* remove product button */
+#remove_product {
     width: 20%;
     height: 25px;
-    background-color:crimson;
+    background-color: crimson;
     border-radius: 5px;
     border-color: crimson;
     cursor: pointer;
 }
 
-#remove_product:hover{
+#remove_product:hover {
     background-color: red;
     color: white;
 }
